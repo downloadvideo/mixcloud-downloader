@@ -1,0 +1,12 @@
+How to download from Mixcloud
+
+This document explains how you can download a mix from Mixcloud by yourself without any third party software. However I want to recommend not doing that on your on, instead use this Mixcloud Downloader. Having said that, here's the step by step manual how to download from Mixcloud:
+Prerequisite
+
+You need Chrome or Chromium as browser. Actually Firefox works as well, but this document refers to specifics of Chrome. Furthermore you'll need a tool to download from a URL e.g. wget.
+Instructions
+
+    Go to Mixcloud coppy links.
+    Open tab to : https://www.getlinkaz.com/
+    passte link & get link 
+    Click download now
